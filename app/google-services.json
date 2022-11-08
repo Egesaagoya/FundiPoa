@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "750046667506",
+    "firebase_url": "https://gesana-fe5e3-default-rtdb.firebaseio.com",
+    "project_id": "gesana-fe5e3",
+    "storage_bucket": "gesana-fe5e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750046667506:android:b4412e8534ca4b9ed0266b",
+        "android_client_info": {
+          "package_name": "com.gesana.carfix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750046667506-6pehnlab9h53fa0ttm5nqkgar3uisdg0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gesana.carfix",
+            "certificate_hash": "f53c8d5ba6fc2ec9fed093dbbbcc76ad1ce2e3de"
+          }
+        },
+        {
+          "client_id": "750046667506-iqb84r0666cmdvj9jq0af7gj6a2omm0a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_KU6CthDTzhtknxV8DPhlnrgVMsY-UvM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750046667506-iqb84r0666cmdvj9jq0af7gj6a2omm0a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750046667506:android:8204399b24c432e7d0266b",
+        "android_client_info": {
+          "package_name": "com.gesana.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750046667506-iqb84r0666cmdvj9jq0af7gj6a2omm0a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_KU6CthDTzhtknxV8DPhlnrgVMsY-UvM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750046667506-iqb84r0666cmdvj9jq0af7gj6a2omm0a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
